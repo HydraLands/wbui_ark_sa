@@ -1,0 +1,62 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/Rix5csT.png",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": false,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome to EVERLANDS",
+                    "text1": "Welcome to the EVERLANDS server. On this panel you will find all the information about the server.\n\nServer configuration:\n\n- Fully PVE server.\n- Maximum level for wild dino: 300\n- Loot drop/fish/cave completely rebuilt and boosted.\n- Weight boost for players and dinosaurs.\n- No fall damage.\n- Tamed dino damage boosted.\n- Items stacked to 10 million.\n- Engrams unlock automatically as you level up.\n- Shop available with items/dino/kit, see Shop tab.\n\nServer rates:\n\n- Harvest: x100\n- Tame: x5\n- Experience: x50\n- Breeding: x10\n- Dino count: x2\n\n\nDon't hesitate to join the discord by clicking on the button below.",
+                    "imageurl": "https://i.imgur.com/Z9cthLW.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "Rules",
+                    "title1": "Rules",
+                    "text1": "Here are a few rules that must be respected on the server for everything to go smoothly:\n\n- Be respectful of other players.\n- Avoid building on spawn sites.\n- Avoid building too close to another base.\n- Avoid gigantic bases 30x30 maximum.\n- Cheating/glitch/mesh/grief are completely forbidden.\n- Structure spam is forbidden.\n- Clean up your structures on the map if you make a trap of tame or others.\n\nIf you have any problem, don't hesitate to join the discord and open a ticket.",
+                    "imageurl": "https://i.imgur.com/Z9cthLW.png"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "Shop",
+                    "title1": "Shop",
+                    "text1": "coming soon",
+                    "imageurl": "https://i.imgur.com/Z9cthLW.png"
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 1,
+                    "buttontext": "VIP",
+                    "title1": "VIP",
+                    "text1": "coming soon",
+                    "imageurl": "https://i.imgur.com/Z9cthLW.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/pDg3xFKhYZ"
+                }
+            }
+        ]
+    }
+}
