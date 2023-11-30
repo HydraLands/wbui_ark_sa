@@ -17,8 +17,8 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "Welcome",
-                    "title1": "Welcome to EVERLANDS",
-                    "text1": "Welcome to the EVERLANDS server. On this panel you will find all the information about the server.\n\nServer configuration:\n\n- Fully PVE server.\n- Maximum level for wild dino: 300\n- Loot drop/fish/cave completely rebuilt and boosted.\n- Weight boost for players and dinosaurs.\n- No fall damage.\n- Tamed dino damage boosted.\n- Items stacked to 10 million.\n- Engrams unlock automatically as you level up.\n- Shop available with items/dino/kit, see Shop tab.\n\nServer rates:\n\n- Harvest: x100\n- Tame: x5\n- Experience: x50\n- Breeding: x10\n- Dino count: x2\n\n\nDon't hesitate to join the discord by clicking on the button below.",
+                    "title1": "Welcome to <RichColor Color=\"0,0.25,0.75,1\">HydraLands</> !",
+                    "text1": "Here is some information about the server.\n\n<RichColor Color=\"1, 0.65, 0, 1\">Server configuration:</>\n\n- PVE game mode.\n- Maximum wild dino level: 300\n- Cave and airdrop loot are increased.\n- Weight for player and dino are limited.\n- No fall damage.\n- You don't lose your equipment if you die.\n- You can increase the speed of the flying dino.\n- Lots of new dino with Primal mod.\n- Ample items at 10kk.\n- You have a shop and kits available.\n- You can track any dino with SHIFT+F8.\n\n<RichColor Color=\"1, 0.65, 0, 1\">Different multipliers on the server:</>\n\n- Gathers: x100\n- Mating: x10\n- Breeding/Egg: x10\n- XP: x10\n- Loot Quality: x100\n- Crops: x10\n\n<RichColor Color=\"1, 0.65, 0, 1\">If you want more information about the server, don't hesitate to ask your questions on the discord.</>",
                     "imageurl": "https://i.imgur.com/VL2zdrx.png"
                 }
             },
@@ -26,7 +26,7 @@
                 "tab2": {
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"1, 1, 0, 1\">Rules</>",
-                    "title1": "<RichColor Color=\"1, 1, 0, 1\">Rules</>",
+                    "title1": "<RichColor Color=\"1, 1, 0, 1\">Server Rules</>",
                     "text1": "Here are a few rules to follow on <RichColor Color=\"0,0.25,0.75,1\">HydraLands</>:\n\n1. No insult, cheat, glitch, racism, grief, undermesh.\n2. No construction to block resources, spawns or cellars.\n3. Avoid setting up too close to other people to avoid structural restrictions.\n4. Avoid gigantic bases 30x30 maximum for the good of the server and players passing by your base.\n5. No discriminating or offensive nicknames, even on dino names.\n6. Have fun!\n\n<RichColor Color=\"1, 1, 0, 1\">Please respect these rules for everyone's sake and enjoy the game!</>",
                     "imageurl": "https://i.imgur.com/VL2zdrx.png"
                 }
